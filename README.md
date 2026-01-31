@@ -2,6 +2,8 @@
 
 A computational neuroscience project with the goal of replicating the following linked paper with Brian2: https://www.eneuro.org/content/eneuro/6/2/ENEURO.0423-18.2019.full.pdf, and publishing it in [ReScience C](https://rescience.github.io/write/)
 
+Repository to the original paper's code can be found here: https://github.com/ModelDBRepository/245415
+
 ## Table of Contents
 
 - [Contributing with Pull/Merge Requests](#contributing-with-pullmerge-requests)
